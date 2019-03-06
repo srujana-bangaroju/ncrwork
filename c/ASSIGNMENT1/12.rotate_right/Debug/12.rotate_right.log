@@ -1,0 +1,5 @@
+﻿  sorce.c
+c:\users\dell\source\repos\ncrwork\c\assignment1\12.rotate_right\sorce.c(5): warning C4028: formal parameter 1 different from declaration
+c:\users\dell\source\repos\ncrwork\c\assignment1\12.rotate_right\sorce.c(5): warning C4028: formal parameter 2 different from declaration
+c:\users\dell\source\repos\ncrwork\c\assignment1\12.rotate_right\sorce.c(5): error C2371: 'pow': redefinition; different basic types
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(482): note: see declaration of 'pow'

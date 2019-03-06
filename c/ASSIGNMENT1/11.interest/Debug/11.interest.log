@@ -1,0 +1,3 @@
+﻿  program11.c
+c:\users\dell\desktop\ncrwork\c\ncrwork\assignment1\program11.c(34): warning C4013: 'system' undefined; assuming extern returning int
+  11.interest.vcxproj -> C:\Users\Dell\source\repos\ncrwork\c\ASSIGNMENT1\Debug\11.interest.exe
