@@ -1,0 +1,4 @@
+﻿  program1.cpp
+c:\users\dell\ncrwork\windows\inheritance11\program1.cpp(45): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+c:\users\dell\ncrwork\windows\inheritance11\program1.cpp(18): warning C4101: 'buffer': unreferenced local variable
+  inheritance11.vcxproj -> C:\Users\DELL\ncrwork\windows\Debug\inheritance11.exe

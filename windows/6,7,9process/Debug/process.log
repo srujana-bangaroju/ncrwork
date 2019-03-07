@@ -1,0 +1,6 @@
+﻿  process.cpp
+c:\users\esdm\ncrwork\windows\process\process.cpp(36): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+c:\users\esdm\ncrwork\windows\process\process.cpp(39): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+c:\users\esdm\ncrwork\windows\process\process.cpp(8): warning C4101: 'hproc': unreferenced local variable
+  process.vcxproj -> C:\Users\esdm\ncrwork\windows\Debug\process.exe
+  process.vcxproj -> C:\Users\esdm\ncrwork\windows\Debug\process.pdb (Full PDB)
